@@ -5,6 +5,9 @@ Experiment with Swish : A Self-Gated Activation Function [(arxiv)](https://arxiv
 
 **Dataset:** [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
+**main.ipynb: **experiment ran on [neptnue.ml](https://neptune.ml/), comparing prefromacne of swish(he init.), ReLU and SELU.
+
+**mnist_cnn.ipynb: ** Experiment ran on [crestle.com](http://crestle.com/), comparing prefromacne of swish(default init.), ReLU and SELU
 
 ## Results:
 
